@@ -54,7 +54,7 @@ Processes a list of natural language questions and returns precise answers based
 ### 🔐 Authentication
 
 ```http
-Authorization: Bearer <your_token>
+Authorization: Bearer 932d887435ea59d029c2e1a6844a0590c534c3601c926ebf8847bdf605474a0d
 ```
 
 ---
